@@ -1,7 +1,8 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-[![Linkedin Badge](https://img.shields.io/badge/-AkashChauhan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akash-chauhan-3616321a4/)](https://www.linkedin.com/in/akash-chauhan-3616321a4/)
-[![Portfolio Badge](https://img.shields.io/badge/-@_AkashChauhan-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@19it197)](https://medium.com/@19it197)
-[![Gmail Badge](https://img.shields.io/badge/-akashchauhan-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ac8572611@gmail.com)](mailto:ac8572611@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-AkashChauhan-blue?style=flat&logo=Linkedin&logoColor=white&link=https:///www.linkedin.com/in/rutvik-mori-b4bb571a9/)](/www.linkedin.com/in/rutvik-mori-b4bb571a9/)
+[![Gmail Badge](https://img.shields.io/badge/-rutvikmori-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rutvikmori123@gmail.com
+)](mailto:rutvikmori123@gmail.com
+)
 ### Welcome to my profile!
 #### <p>“I am Rutvik Mori,I'm currently doing my BE in VVP Engineering college (Rajkot).</p>
 ### <i>Competitive programmer/Full stack developer</i>

@@ -1,6 +1,6 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-[![Linkedin Badge](https://img.shields.io/badge/-RutvikMori-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rutvik-mori-b4bb571a9/)](https://www.linkedin.com/in/rutvik-mori-b4bb571a9/)]
-[![Gmail Badge](https://img.shields.io/badge/-rutvikmori-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rutvikmori123@gmail.com)](mailto:rutvikmori123@gmail.com)
+![Linkedin Badge](https://img.shields.io/badge/-RutvikMori-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rutvik-mori-b4bb571a9/)(https://www.linkedin.com/in/rutvik-mori-b4bb571a9/)
+![Gmail Badge](https://img.shields.io/badge/-rutvikmori-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rutvikmori123@gmail.com)(mailto:rutvikmori123@gmail.com)
 ### Welcome to my profile!
 #### <p>“I am Rutvik Mori,I'm currently doing my BE in VVP Engineering college (Rajkot).</p>
 ### <i>Competitive programmer/Full stack developer</i>

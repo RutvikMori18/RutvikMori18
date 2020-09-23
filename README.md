@@ -1,5 +1,5 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-[![Linkedin Badge](https://img.shields.io/badge/-AkashChauhan-blue?style=flat&logo=Linkedin&logoColor=white&link=https:///www.linkedin.com/in/rutvik-mori-b4bb571a9/)](/www.linkedin.com/in/rutvik-mori-b4bb571a9/)
+[![Linkedin Badge](https://img.shields.io/badge/-RutvikMori-blue?style=flat&logo=Linkedin&logoColor=white&link=https:///www.linkedin.com/in/rutvik-mori-b4bb571a9/)](/www.linkedin.com/in/rutvik-mori-b4bb571a9/)
 [![Gmail Badge](https://img.shields.io/badge/-rutvikmori-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rutvikmori123@gmail.com
 )](mailto:rutvikmori123@gmail.com
 )

@@ -7,7 +7,7 @@
 <br/>
 
 - 🥅 2020 Goals: make better profile for future
-- 🌱 I’m learning Angular,React,Typescript,MEAN,MERN.
+- 🌱 I’m learning c+,python
 - I'm currently focusing on improving my DS and Algo skill
 
 #### *To know more about me visit my [portfolio](https://akash52.netlify.app/)*

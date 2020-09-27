@@ -10,7 +10,7 @@
 - 🌱 I’m learning c+,python
 - I'm currently focusing on improving my DS and Algo skill
 
-#### *To know more about me visit my [portfolio](https://akash52.netlify.app/)*
+
 
 ### <i>CP where i'm practice :</i>
 
@@ -25,7 +25,7 @@
 
  </p>
  
- ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=RutvikMori18&show_icons=true&theme=radical)
+ ![Rutvik's github stats](https://github-readme-stats.vercel.app/api?username=RutvikMori18&show_icons=true&theme=radical)
  
 
 

@@ -15,6 +15,8 @@
 ### <i>CP where i'm practice :</i>
 
 - [codechef](https://www.codechef.com/users/rutvikmori).
+- [Leet Code](https://leetcode.com/rutvikmori/).
+- - [Hacker rank](https://www.hackerrank.com/18it_ritvik_mori).
 
 <br />
 <p>

@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-RutvikMori-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rutvikmori123@gmail.com)](mailto:rutvikmori123@gmail.com)
 ### Welcome to my profile!
 #### <p>“I am Rutvik Mori,I'm currently doing my BE in VVP Engineering college (Rajkot).</p>
-### <i>Competitive programmer/Full stack developer</i>
+### <i>Competitive programmer/ Android developer</i>
 <br/>
 
 - 🥅 2021 Goals: make better profile for future

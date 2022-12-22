@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-RutvikMori-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rutvikmori123@gmail.com)](mailto:rutvikmori123@gmail.com)
 ### Welcome to my profile!
 #### <p>“I am Rutvik Mori,I'm software engineer.</p>
-### <i>Competitive programmer/ Android developer/flutter//flutterflowfirebase/</i>
+### <i>Competitive programmer/ Android developer/ flutter/ flutterflow/ firebase/</i>
 <br/>
 
 - 🥅 2021 Goals: make better profile for future
